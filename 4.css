@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.red-text {
+    color: red;
+}
+.center {
+    text-transform: uppercase;
+    color: red;
+    text-align: center;
+}
